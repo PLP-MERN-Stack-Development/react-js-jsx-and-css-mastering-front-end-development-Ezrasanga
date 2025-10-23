@@ -54,13 +54,14 @@ src/
 
 ## Submission
 
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
+-[My live application preview](https://react-js-jsx-and-css-mastering-fron-zeta.vercel.app/api)
+<img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/0b3803f2-bdd4-43d2-af86-efc188954550" />
+<img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/aae5b879-54b0-4f38-91d1-e464accb9595" />
 
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
+
+<img width="1919" height="962" alt="image" src="https://github.com/user-attachments/assets/984a26a8-b887-4007-90c4-38b0a6dbcb97" />
+
+
 
 ## Resources
 
