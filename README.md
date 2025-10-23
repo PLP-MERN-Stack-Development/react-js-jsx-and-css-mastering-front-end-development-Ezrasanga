@@ -55,6 +55,8 @@ src/
 ## Submission
 
 -[My live application preview](https://react-js-jsx-and-css-mastering-fron-zeta.vercel.app/api)
+
+## Screenshots
 <img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/0b3803f2-bdd4-43d2-af86-efc188954550" />
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/aae5b879-54b0-4f38-91d1-e464accb9595" />
 
